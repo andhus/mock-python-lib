@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 VERSION = '0.0.1'
 
 setup(
-    name='mylib',
+    name='huss-mylib',
     version=VERSION,
     description=(
         'Mock python library for testing out travis and publishing to PyPI server.'
