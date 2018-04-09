@@ -13,4 +13,4 @@ deploy:
   provider: pypi
   user: user
   password: password
-  server: https://huss-exploration.appspot.com/pypi
+  server: https://huss-exploration.appspot.com/
